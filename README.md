@@ -8,6 +8,9 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/tbicr/django-pg-zero-downtime-migrations/master.svg)](https://github.com/tbicr/django-pg-zero-downtime-migrations/commits/master)
 [![Build Status](https://github.com/tbicr/django-pg-zero-downtime-migrations/actions/workflows/check.yml/badge.svg?branch=master)](https://github.com/tbicr/django-pg-zero-downtime-migrations/actions)
 
+# Related Article
+[Migrating a production database without any downtime](https://teamplify.com/blog/zero-downtime-DB-migrations/#example-2-downtime-caused-by-a-column-removal)
+
 # django-pg-zero-downtime-migrations
 
 Django postgresql backend that apply migrations with respect to database locks.
